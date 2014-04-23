@@ -1,0 +1,8 @@
+## Linux Temporary Files
+*~
+*.tmp
+*.bak
+*.swp
+
+# KDE directory preferences
+.directory

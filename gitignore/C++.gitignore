@@ -1,0 +1,27 @@
+## C/C++ Files
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+*.elf
+
+# Compiled Dynamic libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+*.la
+*.lai
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex

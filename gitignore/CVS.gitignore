@@ -1,0 +1,5 @@
+## CVS Files
+/CVS/*
+*/CVS/*
+.cvsignore
+*/.cvsignore

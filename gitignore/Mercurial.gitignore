@@ -1,0 +1,4 @@
+## Mercurial Files
+/.hg/*
+*/.hg/*
+.hgignore
